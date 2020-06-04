@@ -29,7 +29,7 @@ There are four Input interactive data capture forms and one Output billing form:
     
     
     
-![Login GUI](https://octodex.github.com/images/yaktocat.png)
+![Login GUI](/Samples/login.png)
     
     
 
