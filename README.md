@@ -3,9 +3,9 @@ A simple Car Rental Java Application
 
 The Java program is written to be interactive with the customer capturing all customer necessary information for current and future processing. 
 
-There are four Input interactive data capture forms and one Output billing form.
+### Implementation
 
-The various forms are as follows.
+There are four Input interactive data capture forms and one Output billing form:
 
 1.	Sign In   or  Register mode
     The new user is allowed to register himself or the existing user is allowed to log into the system	
@@ -21,4 +21,8 @@ The various forms are as follows.
     
 5.	Billing – Bill Form
     The user is given the final billing amount for his usage
+    
+    
+    
+    
 
