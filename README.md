@@ -30,4 +30,8 @@ There are four Input interactive data capture forms and one Output billing form:
     
     
     
+    ![Login](/samples/login.png)
+Format: ![Alt Text](url)
+    
+    
 
