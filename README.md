@@ -11,13 +11,13 @@ There are four Input interactive data capture forms and one Output billing form:
 
     The new user is allowed to register himself or the existing user is allowed to log into the system	
     
-        ![Login GUI](/Samples/login.png)
+    ![Login GUI](/Samples/login.png)
     
 2.	**Registration mode**
 
     The new user is allowed to register himself with his Username and Password for now and for future use.
     
-        ![Registration GUI](/Samples/register.png)
+      ![Registration GUI](/Samples/register.png)
     
 3.	**Making a Reservation – Booking Form**
 
